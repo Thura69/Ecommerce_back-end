@@ -1,0 +1,1 @@
+npm i express @types/express bcrypt @types/bcrypt jsonwebtoken @types/jsonwebtoken nodemon config @types/config mongoose express-fileupload zod async-redis express-fileupload @types/express-fileupload socket.io
